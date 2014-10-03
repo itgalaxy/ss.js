@@ -1,4 +1,4 @@
-social-buttons-links
+Social buttons links
 ==============
 
 All social buttons links

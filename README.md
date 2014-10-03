@@ -39,6 +39,7 @@ Services links
 * [tinyurl.com](#tinyurlcom)
 * [to.ly](#toly)
 * [qrf.in](#qrfin)
+* [whois.domaintools.com](whoisdomaintoolscom)
 
 Lists sharing links
 ==============
@@ -446,6 +447,18 @@ Argument | Description
 
 ```
 http://qrf.in/?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**) 
+
+### whois.domaintools.com
+
+```
+http://whois.domaintools.com/{url}
 ```
 
 ##### URL Arguments

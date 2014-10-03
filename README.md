@@ -39,7 +39,7 @@ Services links
 * [tinyurl.com](#tinyurlcom)
 * [to.ly](#toly)
 * [qrf.in](#qrfin)
-* [whois.domaintools.com](whoisdomaintoolscom)
+* [whois.domaintools.com](#whoisdomaintoolscom)
 
 Lists sharing links
 ==============

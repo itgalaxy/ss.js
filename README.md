@@ -33,7 +33,7 @@ Services links
 * [2tag.nl](#2tagnl)
 * [Amazon Wishlists](#amazonwithlist)
 * [Baidu Wishlists](#baidu)
-* [HTML Validator](#htmlvalidator)
+* [HTML Validator](#html-validator)
 * [tinyurl.com](#tinyurlcom)
 * [to.ly](#toly)
 * [qrf.in](#qrfin)

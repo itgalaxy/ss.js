@@ -27,7 +27,6 @@ Sharing links
 * [Twitter](#twitter)
 * [VK](#vk)
 * [Xing Share](#xing-share)
-* [Reddit](#reddit)
 
 ### Blogger
 

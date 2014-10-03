@@ -22,6 +22,7 @@ Sharing links
 * [Pinterest](#pinterest)
 * [Reddit](#reddit)
 * [StumbleUpon](#stumbleupon)
+* [Surfingbird](#surfingbird)
 * [Tumblr](#tumblr)
 * [Twitter](#twitter)
 * [VK](#vk)
@@ -270,6 +271,20 @@ Argument | Description
 --- | --- 
 {url} | The url you want to share (**encoded**) 
 {title} | The page title of the url you want to share 
+
+### Surfingbird
+
+```
+http://surfingbird.ru/share?url={url}&title={title}&descr={content}
+```
+
+##### URL Arguments
+
+Argument | Description 
+--- | --- 
+{url} | The url you want to share (**encoded**) 
+{title} | The page title of the url you want to share 
+{content} | A longer description of the content you are sharing 
 
 ### Tumblr
 

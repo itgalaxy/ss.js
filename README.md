@@ -36,6 +36,7 @@ Services links
 * [Amazon Wishlists](#amazonwithlist)
 * [Baidu Wishlists](#baidu)
 * [HTML Validator](#html-validator)
+* [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [tinyurl.com](#tinyurlcom)
 * [to.ly](#toly)
 * [translate.google.com](#translategooglecom)
@@ -412,6 +413,18 @@ Argument | Description
 
 ```
 http://validator.w3.org/check?uri={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### savepageaspdf.pdfonline.com
+
+```
+http://savepageaspdf.pdfonline.com/pdfonline/pdfonline.asp?cURL={url}
 ```
 
 ##### URL Arguments

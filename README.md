@@ -29,6 +29,16 @@ Sharing links
 * [VK](#vk)
 * [Xing Share](#xing-share)
 
+Services links
+============
+
+## Supported Services
+
+* [qrf.in](qrfin)
+
+Lists sharing links
+==============
+
 ### Blogger
 
 ```
@@ -315,3 +325,18 @@ https://www.xing-share.com/app/user?op=share;sc_p=xing-share;url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to share (**encoded**) 
+
+Lists services links
+==============
+
+### qrf.in
+
+```
+http://qrf.in/?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**) 

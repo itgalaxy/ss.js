@@ -31,9 +31,10 @@ Services links
 ============
 
 * [2tag.nl](#2tagnl)
-* [Amazon Wish List] (#amazonwithlist)
-* [Baidu](#baidu)
+* [Amazon Wishlists](#amazonwithlist)
+* [Baidu Wishlists](#baidu)
 * [tinyurl.com](#tinyurlcom)
+* [to.ly](#toly)
 * [qrf.in](#qrfin)
 
 Lists sharing links
@@ -341,7 +342,7 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**) 
 
-### Amazon Wish List
+### Amazon Wishlists
 
 ```
 http://www.amazon.com/gp/wishlist/static-add?u={url}&i={image}&t={name}&p={price}
@@ -356,7 +357,7 @@ Argument | Description
 {name} | Name of product
 {price} | Price of product
 
-### Baidu
+### Baidu Wishlists
 
 ```
 http://cang.baidu.com/do/add?it={title}&iu={url}&fr=ien&dc={content}&tn={classification}
@@ -375,6 +376,18 @@ Argument | Description
 
 ```
 http://tinyurl.com/create.php?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**) 
+
+### to.ly
+
+```
+http://to.ly/create.php?url={url}
 ```
 
 ##### URL Arguments

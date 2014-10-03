@@ -31,6 +31,7 @@ Services links
 ============
 
 * [2tag.nl](#2tagnl)
+* [Amazon Wish List] (#amazonwithlist)
 * [tinyurl.com](#tinyurlcom)
 * [qrf.in](#qrfin)
 
@@ -338,6 +339,21 @@ http://2tag.nl/?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**) 
+
+### Amazon Wish List
+
+```
+http://www.amazon.com/gp/wishlist/static-add?u={url}&i={image}&t={name}&p={price}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**) 
+{image} | The image/thumbnail to use
+{name} | Name of product
+{price} | Price of product
 
 ### tinyurl.com
 

@@ -30,7 +30,7 @@ Sharing links
 Services links
 ============
 
-* [qrf.in](qrfin)
+* [qrf.in](#qrfin)
 
 Lists sharing links
 ==============

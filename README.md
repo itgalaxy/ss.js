@@ -6,8 +6,6 @@ All social buttons links
 Sharing links
 ============
 
-## Supported Social Networks
-
 * [Blogger](#blogger)
 * [Buffer](#buffer)
 * [Delicious](#delicious)
@@ -31,8 +29,6 @@ Sharing links
 
 Services links
 ============
-
-## Supported Services
 
 * [qrf.in](qrfin)
 

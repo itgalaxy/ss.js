@@ -30,6 +30,7 @@ Sharing links
 Services links
 ============
 
+* [2tag.nl](#2tagnl)
 * [tinyurl.com](#tinyurlcom)
 * [qrf.in](#qrfin)
 
@@ -325,6 +326,18 @@ Argument | Description
 
 Lists services links
 ==============
+
+### 2tag.nl
+
+```
+http://2tag.nl/?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**) 
 
 ### tinyurl.com
 

@@ -17,6 +17,7 @@ Sharing links
 * [Google Bookmarks](#google-bookmarks)
 * [Google+](#google-plus)
 * [Linked In](#linkedin)
+* [Livejournal](#livejournal)
 * [Mailru](#mailru)
 * [Myspace](#myspace)
 * [Odnoklassniki](#odnoklassniki)
@@ -159,6 +160,20 @@ Argument | Description
 --- | ---
 {url} | The url you want to share (**encoded**)
 {title} | The page title of the url you want to share 
+
+### Livejournal
+
+```
+http://www.livejournal.com/update.bml?subject={title}&event={content}&prop_taglist={tags}
+```
+
+##### URL Arguments
+
+Argument | Description 
+--- | ---
+{title} | The page title of the url you want to share 
+{content} | A longer description of the content you are sharing 
+{tags} | Lists of tags
 
 ### Mailru
 

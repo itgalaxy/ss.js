@@ -32,6 +32,7 @@ Services links
 
 * [2tag.nl](#2tagnl)
 * [Amazon Wish List] (#amazonwithlist)
+* [Baidu](#baidu)
 * [tinyurl.com](#tinyurlcom)
 * [qrf.in](#qrfin)
 
@@ -354,6 +355,21 @@ Argument | Description
 {image} | The image/thumbnail to use
 {name} | Name of product
 {price} | Price of product
+
+### Baidu
+
+```
+http://cang.baidu.com/do/add?it={title}&iu={url}&fr=ien&dc={content}&tn={classification}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{title} | The page title of the url
+{url} | The url you want to send in service (**encoded**) 
+{content} | Description
+{classification} | Classification of site (multiple categories with a comma "," semicolon ";" or comma "," separated)
 
 ### tinyurl.com
 

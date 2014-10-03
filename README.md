@@ -1,2 +1,2 @@
-social-buttons
+social-buttons-links
 ==============

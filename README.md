@@ -32,6 +32,7 @@ Services links
 ============
 
 * [2tag.nl](#2tagnl)
+* [qr-adv.com](#qr-advcom)
 * [Amazon Wishlists](#amazonwithlist)
 * [Baidu Wishlists](#baidu)
 * [HTML Validator](#html-validator)
@@ -357,6 +358,23 @@ http://2tag.nl/?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**) 
+
+### qr-adv.com
+
+```
+http://qr-adv.com/index.html?url={url}&customUrl={customUrl}&shortUrlPassword={password}&shortUrlExpiryDate={date}&shortUrlUses={shortUrlUses}&shortUrlType={shortUrlType}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**) 
+{customUrl} | Custom url
+{shortUrlPassword} | Password
+{shortUrlExpiryDate} | Date of expiry url (example - 17-10-2014)
+{shortUrlUses} | Count of uses url (0 - Unlimited)
+{shortUrlType} | Pulbic(0) or private(1) url
 
 ### Amazon Wishlists
 

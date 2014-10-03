@@ -293,7 +293,7 @@ Argument | Description
 ### Xing Share
 
 ```
-'https://www.xing-share.com/app/user?op=share;sc_p=xing-share;url={url}
+https://www.xing-share.com/app/user?op=share;sc_p=xing-share;url={url}
 ```
 
 ##### URL Arguments

@@ -30,6 +30,7 @@ Sharing links
 Services links
 ============
 
+* [tinyurl.com](#tinyurlcom)
 * [qrf.in](#qrfin)
 
 Lists sharing links
@@ -324,6 +325,18 @@ Argument | Description
 
 Lists services links
 ==============
+
+### tinyurl.com
+
+```
+http://tinyurl.com/create.php?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**) 
 
 ### qrf.in
 

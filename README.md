@@ -33,6 +33,7 @@ Services links
 * [2tag.nl](#2tagnl)
 * [Amazon Wishlists](#amazonwithlist)
 * [Baidu Wishlists](#baidu)
+* [HTML Validator](#htmlvalidator)
 * [tinyurl.com](#tinyurlcom)
 * [to.ly](#toly)
 * [qrf.in](#qrfin)
@@ -371,6 +372,18 @@ Argument | Description
 {url} | The url you want to send in service (**encoded**) 
 {content} | Description
 {classification} | Classification of site (multiple categories with a comma "," semicolon ";" or comma "," separated)
+
+### HTML Validator
+
+```
+http://validator.w3.org/check?uri={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)  separated)
 
 ### tinyurl.com
 

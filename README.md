@@ -56,6 +56,7 @@ Services links
 * [n4g.com](#n4gcom)
 * [nujij.nl](#nujijnl)
 * [pafnet.de](#pafnetde)
+* [posteezy.com](#posteezycom)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
@@ -705,6 +706,19 @@ Argument | Description
 {name} | Username
 {url} | The url you want to send in service (**encoded**)
 {title} | The page title of the url
+
+### posteezy.com
+
+```
+http://posteezy.com/node/add/story?title={title}&body={content}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{title} | The page title of the url
+{content} | Description
 
 ### printfriendly.com
 

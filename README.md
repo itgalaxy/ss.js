@@ -67,6 +67,7 @@ Services links
 * [sns.qzone.qq.com](#snsqzoneqqcom)
 * [sodahead.com](#sodaheadcom)
 * [supb.ro](#supbro)
+* [technerd.com](#technerdcom)
 * [thisnext.com](#thisnextcom)
 * [tinyurl.com](#tinyurlcom)
 * [to.ly](#toly)
@@ -326,6 +327,7 @@ Argument | Description
 
 ```
 http://www.sonico.com/share.php?url={url}&title={title}
+```
 
 ##### URL Arguments
 
@@ -841,6 +843,18 @@ Argument | Description
 
 ```
 http://supb.ro/index.php?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### technerd.com
+
+```
+http://technerd.com/share.php?url={url}
 ```
 
 ##### URL Arguments

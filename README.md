@@ -51,6 +51,7 @@ Services links
 * [embarkons.com](#embarkonscom)
 * [Gmail](#gmail)
 * [indexor.co.uk](#indexorcouk)
+* [hootsuite.com](#hootsuitecom)
 * [HTML Validator](#html-validator)
 * [fivefilters.org](#fivefiltersorg)
 * [kommenting.com](#kommentingcom)
@@ -659,6 +660,20 @@ http://www.indexor.co.uk/sharereg.php?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### hootsuite.com
+
+```
+https://hootsuite.com/hootlet/social-share?url={url}&title={title}&partner={partner}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+{partner} | Name of organization
 
 ### HTML Validator
 

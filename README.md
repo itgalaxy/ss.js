@@ -39,6 +39,7 @@ Services links
 * [blogkeen.com](#blogkeencom)
 * [bobrdobr.ru](#bobrdobrru)
 * [bookmerken.de](#bookmerkende)
+* [cpf.cleanprint.net](#chiqcom)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
@@ -472,6 +473,18 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The message title
+
+### cpf.cleanprint.net
+
+```
+http://cpf.cleanprint.net/cpf/print?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
 
 ### Gmail
 

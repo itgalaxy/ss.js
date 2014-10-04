@@ -47,6 +47,7 @@ Services links
 * [Gmail](#gmail)
 * [indexor.co.uk](#indexorcouk)
 * [HTML Validator](#html-validator)
+* [fivefilters.org](#fivefiltersorg)
 * [linkmarker.ru](#linkmarkerru)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
@@ -573,6 +574,18 @@ Argument | Description
 
 ```
 http://validator.w3.org/check?uri={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### fivefilters.org
+
+```
+http://fivefilters.org/kindle-it/send.php?url={url}
 ```
 
 ##### URL Arguments

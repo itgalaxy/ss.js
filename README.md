@@ -37,6 +37,7 @@ Services links
 * [Baidu Wishlists](#baidu)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
+* [linkmarker.ru](linkmarkerru)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
@@ -437,6 +438,19 @@ http://validator.w3.org/check?uri={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### linkmarker.ru
+
+```
+http://www.linkmarker.ru/save/?bmurl={url}&bmtitle={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
 
 ### printfriendly.com
 

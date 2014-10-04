@@ -43,6 +43,7 @@ Services links
 * [cpf.cleanprint.net](#cpfcleanprintnet)
 * [cssbased.com](#cssbasedcom)
 * [efactor.com](#efactorcom)
+* [embarkons.com](#embarkonscom)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
@@ -520,6 +521,19 @@ Argument | Description
 
 ```
 http://www.efactor.com/share/?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+
+### embarkons.com
+
+```
+http://www.embarkons.com/sharer.php?u={url}&t={title}
 ```
 
 ##### URL Arguments

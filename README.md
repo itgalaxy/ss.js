@@ -34,6 +34,7 @@ Services links
 * [2tag.nl](#2tagnl)
 * [qr-adv.com](#qr-advcom)
 * [Amazon Wishlists](#amazonwithlist)
+* [azadegi.com](#azadegicom)
 * [Baidu Wishlists](#baidu)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
@@ -398,6 +399,21 @@ Argument | Description
 {image} | The image/thumbnail to use
 {name} | Name of product
 {price} | Price of product
+
+### azadegi.com
+
+```
+http://www.azadegi.com/submit/?url={url}&title={title}&description={content}&tags={tags}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+{content} | Description
+{tags} | Tags
 
 ### Baidu Wishlists
 

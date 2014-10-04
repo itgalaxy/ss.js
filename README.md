@@ -59,6 +59,7 @@ Services links
 * [posteezy.com](#posteezycom)
 * [printfriendly.com](#printfriendlycom)
 * [quantcast.com](#quantcastcom)
+* [rediff.com](#rediffcom)
 * [safelinking.net](#safelinkingnet)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [sns.qzone.qq.com](#snsqzoneqqcom)
@@ -745,6 +746,19 @@ https://www.quantcast.com/{url}
 
 Argument | Description
 --- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### rediff.com
+
+```
+http://share.rediff.com/bookmark/addbookmark?title={title}&bookmarkurl={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{title} | The page title of the url
 {url} | The url you want to send in service (**encoded**)
 
 ### safelinking.net

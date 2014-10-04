@@ -39,7 +39,7 @@ Services links
 * [blogkeen.com](#blogkeencom)
 * [bobrdobr.ru](#bobrdobrru)
 * [bookmerken.de](#bookmerkende)
-* [cpf.cleanprint.net](#chiqcom)
+* [cpf.cleanprint.net](#cpfcleanprintnet)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)

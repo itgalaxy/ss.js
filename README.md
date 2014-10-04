@@ -73,6 +73,7 @@ Services links
 * [to.ly](#toly)
 * [translate.google.com](#translategooglecom)
 * [qrf.in](#qrfin)
+* [voxopolis.com](#voxopoliscom)
 * [whois.domaintools.com](#whoisdomaintoolscom)
 * [wowbored.com](#wowboredcom)
 * [youmob.com](#youmobcom)
@@ -927,6 +928,19 @@ http://qrf.in/?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### voxopolis.com
+
+```
+http://www.voxopolis.com/oexchange/?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
 
 ### whois.domaintools.com
 

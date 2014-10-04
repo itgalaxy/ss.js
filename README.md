@@ -18,6 +18,7 @@ Sharing links
 * [Linked In](#linkedin)
 * [Livejournal](#livejournal)
 * [Mailru](#mailru)
+* [Moi Krug](#moikrugru)
 * [Myspace](#myspace)
 * [Odnoklassniki](#odnoklassniki)
 * [Pinterest](#pinterest)
@@ -239,6 +240,20 @@ Argument | Description
 {title} | The page title of the url you want to share
 {content} | A longer description of the content you are sharing
 {image} | The image/thumbnail to use when sharing
+
+### Moi Krug
+
+```
+http://moikrug.ru/share?url={url}&title={title}&ie=utf-8&description={content}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to share (**encoded**)
+{title} | The page title of the url you want to share
+{content} | A longer description of the content you are sharing
 
 ### Myspace
 

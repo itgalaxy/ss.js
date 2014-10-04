@@ -40,6 +40,7 @@ Services links
 * [bobrdobr.ru](#bobrdobrru)
 * [bookmerken.de](#bookmerkende)
 * [cpf.cleanprint.net](#cpfcleanprintnet)
+* [cssbased.com](#cssbasedcom)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
@@ -485,6 +486,19 @@ http://cpf.cleanprint.net/cpf/print?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### cssbased.com
+
+```
+http://cssbased.com/submit?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
 
 ### Gmail
 

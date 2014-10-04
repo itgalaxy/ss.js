@@ -43,6 +43,7 @@ Services links
 * [blogkeen.com](#blogkeencom)
 * [bobrdobr.ru](#bobrdobrru)
 * [bookmerken.de](#bookmerkende)
+* [box.com](#boxcom)
 * [cpf.cleanprint.net](#cpfcleanprintnet)
 * [cssbased.com](#cssbasedcom)
 * [diigo.com](#diigocom)
@@ -497,7 +498,7 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The page title of the url
-{content} | Description
+{content} | A longer description of the content
 {tags} | Tags
 
 ### Baidu Wishlists
@@ -512,7 +513,7 @@ Argument | Description
 --- | ---
 {title} | The page title of the url
 {url} | The url you want to send in service (**encoded**)
-{content} | Description
+{content} | A longer description of the content
 {classification} | Classification of site (multiple categories with a comma "," semicolon ";" or comma "," separated)
 
 ### blogkeen.com
@@ -539,7 +540,7 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The page title of the url
-{content} | Description
+{content} | A longer description of the content
 {tags} | Tags
 
 ### bookmerken.de
@@ -554,6 +555,20 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The message title
+
+### box.com
+
+```
+https://www.app.box.com/api/1.0/import?import_as=link&url={url}&name={title}&description={content}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The message title
+{content} | A longer description of the content
 
 ### cpf.cleanprint.net
 

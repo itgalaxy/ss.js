@@ -37,6 +37,7 @@ Services links
 * [Baidu Wishlists](#baidu)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
+* [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
 * [thisnext.com](#thisnextcom)
@@ -429,6 +430,18 @@ Argument | Description
 
 ```
 http://validator.w3.org/check?uri={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### printfriendly.com
+
+```
+http://www.printfriendly.com/print?url={url}
 ```
 
 ##### URL Arguments

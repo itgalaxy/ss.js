@@ -1,4 +1,4 @@
-Social and services links
+Social and service links
 ==============
 
 All social buttons links

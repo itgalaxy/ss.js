@@ -28,6 +28,7 @@ Sharing links
 * [Tumblr](#tumblr)
 * [Twitter](#twitter)
 * [VK](#vk)
+* [Weibo](#weibo)
 * [Xing Share](#xing-share)
 
 Services links
@@ -390,6 +391,19 @@ Argument | Description
 {content} | A longer description of the content you are sharing
 {image} | The image/thumbnail to use when sharing
 {parse} | Parse url? (0 or 1, default 1)
+
+### Weibo
+
+```
+http://service.weibo.com/share/share.php?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description 
+--- | --- 
+{url} | The url you want to share (**encoded**)
+{title} | The page title of the url you want to share
 
 ### Xing Share
 

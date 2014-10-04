@@ -59,6 +59,7 @@ Services links
 * [posteezy.com](#posteezycom)
 * [printfriendly.com](#printfriendlycom)
 * [quantcast.com](#quantcastcom)
+* [safelinking.net](#safelinkingnet)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [sns.qzone.qq.com](#snsqzoneqqcom)
 * [supb.ro](#supbro)
@@ -738,6 +739,18 @@ Argument | Description
 
 ```
 https://www.quantcast.com/{url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### safelinking.net
+
+```
+https://safelinking.net/results?url={url}
 ```
 
 ##### URL Arguments

@@ -48,6 +48,7 @@ Services links
 * [indexor.co.uk](#indexorcouk)
 * [HTML Validator](#html-validator)
 * [fivefilters.org](#fivefiltersorg)
+* [kommenting.com](#kommentingcom)
 * [linkmarker.ru](#linkmarkerru)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
@@ -586,6 +587,18 @@ Argument | Description
 
 ```
 http://fivefilters.org/kindle-it/send.php?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### kommenting.com
+
+```
+http://www.kommenting.com/comment?url={url}
 ```
 
 ##### URL Arguments

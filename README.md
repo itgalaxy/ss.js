@@ -58,6 +58,7 @@ Services links
 * [pafnet.de](#pafnetde)
 * [posteezy.com](#posteezycom)
 * [printfriendly.com](#printfriendlycom)
+* [quantcast.com](#quantcastcom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
 * [thisnext.com](#thisnextcom)
@@ -724,6 +725,18 @@ Argument | Description
 
 ```
 http://www.printfriendly.com/print?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### quantcast.com
+
+```
+https://www.quantcast.com/{url}
 ```
 
 ##### URL Arguments

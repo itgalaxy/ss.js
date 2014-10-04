@@ -37,6 +37,7 @@ Services links
 * [Baidu Wishlists](#baidu)
 * [HTML Validator](#html-validator)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
+* [supb.ro](#supbro)
 * [thisnext.com](#thisnextcom)
 * [tinyurl.com](#tinyurlcom)
 * [to.ly](#toly)
@@ -426,6 +427,18 @@ Argument | Description
 
 ```
 http://savepageaspdf.pdfonline.com/pdfonline/pdfonline.asp?cURL={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### supb.ro
+
+```
+http://supb.ro/index.php?url={url}
 ```
 
 ##### URL Arguments

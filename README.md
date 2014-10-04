@@ -49,6 +49,7 @@ Services links
 * [HTML Validator](#html-validator)
 * [fivefilters.org](#fivefiltersorg)
 * [kommenting.com](#kommentingcom)
+* [librerio.com](#libreriocom)
 * [linkmarker.ru](#linkmarkerru)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
@@ -606,6 +607,19 @@ http://www.kommenting.com/comment?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### librerio.com
+
+```
+http://www.librerio.com/inbox?u={url}&t={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
 
 ### linkmarker.ru
 

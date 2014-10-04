@@ -74,6 +74,7 @@ Services links
 * [translate.google.com](#translategooglecom)
 * [qrf.in](#qrfin)
 * [whois.domaintools.com](#whoisdomaintoolscom)
+* [wowbored.com](#wowboredcom)
 
 Lists sharing links
 ==============
@@ -936,3 +937,16 @@ http://whois.domaintools.com/{url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### wowbored.com
+
+```
+http://www.wowbored.com/submit.php?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url

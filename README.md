@@ -23,6 +23,7 @@ Sharing links
 * [Odnoklassniki](#odnoklassniki)
 * [Pinterest](#pinterest)
 * [Reddit](#reddit)
+* [Sonico](#sonico)
 * [StumbleUpon](#stumbleupon)
 * [Surfingbird](#surfingbird)
 * [Tumblr](#tumblr)
@@ -313,6 +314,18 @@ Argument | Description
 ```
 http://reddit.com/submit?url={url}&title={title}
 ```
+
+##### URL Arguments
+
+Argument | Description
+--- | --- 
+{url} | The url you want to share (**encoded**)
+{title} | The page title of the url you want to share
+
+### Sonico
+
+```
+http://www.sonico.com/share.php?url={url}&title={title}
 
 ##### URL Arguments
 

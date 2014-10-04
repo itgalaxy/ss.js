@@ -51,6 +51,7 @@ Services links
 * [kommenting.com](#kommentingcom)
 * [librerio.com](#libreriocom)
 * [linkmarker.ru](#linkmarkerru)
+* [logger24.com](#logger24com)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
@@ -633,6 +634,18 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The page title of the url
+
+### logger24.com
+
+```
+http://logger24.com/?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
 
 ### printfriendly.com
 

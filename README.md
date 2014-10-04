@@ -76,6 +76,7 @@ Services links
 * [whois.domaintools.com](#whoisdomaintoolscom)
 * [wowbored.com](#wowboredcom)
 * [youmob.com](#youmobcom)
+* [zakladok.net](#zakladoknet)
 
 Lists sharing links
 ==============
@@ -963,3 +964,16 @@ http://youmob.com/startmob.aspx?mob={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in 
+
+### zakladok.net
+
+```
+http://zakladok.net/link/?u={url}&t={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in 
+{title} | The page title of the url

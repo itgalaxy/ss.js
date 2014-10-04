@@ -10,6 +10,7 @@ Sharing links
 * [Buffer](#buffer)
 * [Delicious](#delicious)
 * [Digg](#digg)
+* [Douban](#douban)
 * [Evernote](#evernote)
 * [Facebook](#facebook)
 * [Google Bookmarks](#google-bookmarks)
@@ -108,6 +109,20 @@ http://digg.com/submit?url={url}&title={title}
 
 Argument | Description 
 --- | ---
+{url} | The url you want to share (**encoded**)
+{title} | The page title of the url you want to share
+
+### Douban
+
+```
+http://www.douban.com/share/service?image={image}&href={url}&name={title}
+```
+
+##### URL Arguments
+
+Argument | Description 
+--- | ---
+{image} | The image/thumbnail to use when sharing
 {url} | The url you want to share (**encoded**)
 {title} | The page title of the url you want to share
 

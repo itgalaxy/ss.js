@@ -45,6 +45,7 @@ Services links
 * [bookmerken.de](#bookmerkende)
 * [cpf.cleanprint.net](#cpfcleanprintnet)
 * [cssbased.com](#cssbasedcom)
+* [diigo.com](#diigocom)
 * [efactor.com](#efactorcom)
 * [embarkons.com](#embarkonscom)
 * [Gmail](#gmail)
@@ -578,6 +579,20 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The page title of the url
+
+### diigo.com
+
+```
+https://www.diigo.com/post?url={url}&title={title}&desc={content}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+{content} | A longer description of the content
 
 ### efactor.com
 

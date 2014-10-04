@@ -36,6 +36,7 @@ Services links
 * [Amazon Wishlists](#amazonwithlist)
 * [azadegi.com](#azadegicom)
 * [Baidu Wishlists](#baidu)
+* [blogkeen.com](#blogkeencom)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
@@ -429,6 +430,18 @@ Argument | Description
 {url} | The url you want to send in service (**encoded**)
 {content} | Description
 {classification} | Classification of site (multiple categories with a comma "," semicolon ";" or comma "," separated)
+
+### blogkeen.com
+
+```
+http://www.blogkeen.com/visit_blog.aspx?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
 
 ### Gmail
 

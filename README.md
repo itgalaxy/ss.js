@@ -18,7 +18,7 @@ Sharing links
 * [Linked In](#linkedin)
 * [Livejournal](#livejournal)
 * [Mailru](#mailru)
-* [Moi Krug](#moikrugru)
+* [Moi Krug](#moi-krug)
 * [Myspace](#myspace)
 * [Odnoklassniki](#odnoklassniki)
 * [Pinterest](#pinterest)

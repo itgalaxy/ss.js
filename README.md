@@ -45,6 +45,7 @@ Services links
 * [efactor.com](#efactorcom)
 * [embarkons.com](#embarkonscom)
 * [Gmail](#gmail)
+* [indexor.co.uk](#indexorcouk)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
 * [printfriendly.com](#printfriendlycom)
@@ -555,6 +556,18 @@ Argument | Description
 --- | ---
 {title} | The message title
 {content} | The message content
+
+### indexor.co.uk
+
+```
+http://www.indexor.co.uk/sharereg.php?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
 
 ### HTML Validator
 

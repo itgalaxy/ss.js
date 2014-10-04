@@ -38,6 +38,7 @@ Services links
 * [Baidu Wishlists](#baidu)
 * [blogkeen.com](#blogkeencom)
 * [bobrdobr.ru](#bobrdobrru)
+* [bookmerken.de](#bookmerkende)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
@@ -458,6 +459,19 @@ Argument | Description
 {title} | The page title of the url
 {content} | Description
 {tags} | Tags
+
+### bookmerken.de
+
+```
+http://www.bookmerken.de/?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The message title
 
 ### Gmail
 

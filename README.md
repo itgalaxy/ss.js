@@ -60,6 +60,7 @@ Services links
 * [printfriendly.com](#printfriendlycom)
 * [quantcast.com](#quantcastcom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
+* [sns.qzone.qq.com](#snsqzoneqqcom)
 * [supb.ro](#supbro)
 * [thisnext.com](#thisnextcom)
 * [tinyurl.com](#tinyurlcom)
@@ -749,6 +750,18 @@ Argument | Description
 
 ```
 http://savepageaspdf.pdfonline.com/pdfonline/pdfonline.asp?cURL={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### sns.qzone.qq.com
+
+```
+http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={url}
 ```
 
 ##### URL Arguments

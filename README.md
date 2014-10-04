@@ -35,6 +35,7 @@ Services links
 * [qr-adv.com](#qr-advcom)
 * [Amazon Wishlists](#amazonwithlist)
 * [Baidu Wishlists](#baidu)
+* [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
@@ -410,6 +411,19 @@ Argument | Description
 {url} | The url you want to send in service (**encoded**)
 {content} | Description
 {classification} | Classification of site (multiple categories with a comma "," semicolon ";" or comma "," separated)
+
+### Gmail
+
+```
+https://mail.google.com/mail/u/0/?view=cm&fs=1&to&su={title}&body={content}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{title} | The message title
+{content} | The message content
 
 ### HTML Validator
 

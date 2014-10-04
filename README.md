@@ -64,6 +64,7 @@ Services links
 * [safelinking.net](#safelinkingnet)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [sns.qzone.qq.com](#snsqzoneqqcom)
+* [sodahead.com](#sodaheadcom)
 * [supb.ro](#supbro)
 * [thisnext.com](#thisnextcom)
 * [tinyurl.com](#tinyurlcom)
@@ -803,6 +804,18 @@ Argument | Description
 
 ```
 http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+
+### sodahead.com
+
+```
+http://www.sodahead.com/news/submit/?url={url}
 ```
 
 ##### URL Arguments

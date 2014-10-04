@@ -55,6 +55,7 @@ Services links
 * [logger24.com](#logger24com)
 * [n4g.com](#n4gcom)
 * [nujij.nl](#nujijnl)
+* [pafnet.de](#pafnetde)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
@@ -690,6 +691,20 @@ Argument | Description
 {title} | The page title of the url
 {url} | The url you want to send in service (**encoded**)
 {content} | Description
+
+### pafnet.de
+
+```
+http://www.pafnet.de/index.php?name={name}&url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{name} | Username
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
 
 ### printfriendly.com
 

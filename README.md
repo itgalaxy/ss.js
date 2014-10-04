@@ -37,7 +37,7 @@ Services links
 * [Baidu Wishlists](#baidu)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
-* [linkmarker.ru](linkmarkerru)
+* [linkmarker.ru](#linkmarkerru)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)

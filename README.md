@@ -42,6 +42,7 @@ Services links
 * [bookmerken.de](#bookmerkende)
 * [cpf.cleanprint.net](#cpfcleanprintnet)
 * [cssbased.com](#cssbasedcom)
+* [efactor.com](#efactorcom)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
@@ -506,6 +507,19 @@ Argument | Description
 
 ```
 http://cssbased.com/submit?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+
+### efactor.com
+
+```
+http://www.efactor.com/share/?url={url}&title={title}
 ```
 
 ##### URL Arguments

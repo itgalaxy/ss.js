@@ -37,6 +37,7 @@ Services links
 * [azadegi.com](#azadegicom)
 * [Baidu Wishlists](#baidu)
 * [blogkeen.com](#blogkeencom)
+* [bobrdobr.ru](#bobrdobr.ru)
 * [Gmail](#gmail)
 * [HTML Validator](#html-validator)
 * [linkmarker.ru](#linkmarkerru)
@@ -442,6 +443,21 @@ http://www.blogkeen.com/visit_blog.aspx?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### bobrdobr.ru
+
+```
+http://bobrdobr.ru/addext.html?url={url}&title={title}&desc={content}&tags={tags}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+{content} | Description
+{tags} | Tags
 
 ### Gmail
 

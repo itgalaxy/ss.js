@@ -54,6 +54,7 @@ Services links
 * [linkmarker.ru](#linkmarkerru)
 * [logger24.com](#logger24com)
 * [n4g.com](#n4gcom)
+* [nujij.nl](#nujijnl)
 * [printfriendly.com](#printfriendlycom)
 * [savepageaspdf.pdfonline.com](#savepageaspdfpdfonlinecom)
 * [supb.ro](#supbro)
@@ -675,6 +676,20 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The page title of the url
+
+### nujij.nl
+
+```
+http://www.nujij.nl/nieuw-bericht.2051051.lynkx?title={title}&url={url}&bericht={content}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{title} | The page title of the url
+{url} | The url you want to send in service (**encoded**)
+{content} | Description
 
 ### printfriendly.com
 

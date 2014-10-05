@@ -51,6 +51,7 @@ Services links
 * [embarkons.com](#embarkonscom)
 * [Gmail](#gmail)
 * [indexor.co.uk](#indexorcouk)
+* [instapaper.com](#instapapercom)
 * [hootsuite.com](#hootsuitecom)
 * [HTML Validator](#html-validator)
 * [fivefilters.org](#fivefiltersorg)
@@ -660,6 +661,19 @@ http://www.indexor.co.uk/sharereg.php?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### instapaper.com
+
+```
+https://www.instapaper.com/edit?url={url}&title={title}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
 
 ### hootsuite.com
 

@@ -66,6 +66,7 @@ Services links
 * [pafnet.de](#pafnetde)
 * [posteezy.com](#posteezycom)
 * [printfriendly.com](#printfriendlycom)
+* [pusha.se](#pushase)
 * [quantcast.com](#quantcastcom)
 * [rediff.com](#rediffcom)
 * [safelinking.net](#safelinkingnet)
@@ -856,6 +857,20 @@ http://www.printfriendly.com/print?url={url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### pusha.se
+
+```
+http://www.pusha.se/posta?url={url}&title={title}&description={content}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+{content} | A longer description of the content
 
 ### quantcast.com
 

@@ -11,6 +11,7 @@ Sharing links
 * [Delicious](#delicious)
 * [Digg](#digg)
 * [Douban](#douban)
+* [Dudu](#dudu)
 * [Evernote](#evernote)
 * [Facebook](#facebook)
 * [Google Bookmarks](#google-bookmarks)
@@ -153,6 +154,19 @@ Argument | Description
 {image} | The image/thumbnail to use when sharing
 {url} | The url you want to share (**encoded**)
 {title} | The page title of the url you want to share
+
+### Dudu
+
+```
+http://dudu.com/world/oexchange?url={url}&title={content}
+```
+
+##### URL Arguments
+
+Argument | Description 
+--- | ---
+{url} | The url you want to share (**encoded**)
+{content} | A longer description of the content you are sharin
 
 ### Evernote
 

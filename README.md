@@ -50,6 +50,7 @@ Services links
 * [diigo.com](#diigocom)
 * [efactor.com](#efactorcom)
 * [embarkons.com](#embarkonscom)
+* [getpocket.com](#getpocketcom)
 * [Gmail](#gmail)
 * [indexor.co.uk](#indexorcouk)
 * [instapaper.com](#instapapercom)
@@ -651,6 +652,18 @@ Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
 {title} | The page title of the url
+
+### getpocket.com
+
+```
+https://getpocket.com/edit?url={url}
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
 
 ### Gmail
 

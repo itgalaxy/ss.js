@@ -80,6 +80,7 @@ Services links
 * [qrf.in](#qrfin)
 * [voxopolis.com](#voxopoliscom)
 * [whois.domaintools.com](#whoisdomaintoolscom)
+* [Wordpress blogs](#wordpress-blogs)
 * [wowbored.com](#wowboredcom)
 * [youmob.com](#youmobcom)
 * [zakladok.net](#zakladoknet)
@@ -802,7 +803,7 @@ Argument | Description
 --- | ---
 {title} | The page title of the url
 {url} | The url you want to send in service (**encoded**)
-{content} | Description
+{content} | A longer description of the content
 
 ### pafnet.de
 
@@ -829,7 +830,7 @@ http://posteezy.com/node/add/story?title={title}&body={content}
 Argument | Description
 --- | ---
 {title} | The page title of the url
-{content} | Description
+{content} | A longer description of the content
 
 ### printfriendly.com
 
@@ -950,7 +951,7 @@ http://www.thisnext.com/pick/new/submit/url/?description={content}&name={title}&
 
 Argument | Description
 --- | ---
-{content} | Description
+{content} | A longer description of the content
 {title} | The page title of the url
 {url} | The url you want to send in service (**encoded**)
 
@@ -1026,6 +1027,20 @@ http://whois.domaintools.com/{url}
 Argument | Description
 --- | ---
 {url} | The url you want to send in service (**encoded**)
+
+### Wordpress blogs
+
+```
+http://your-wordpress-blog.com/wp-admin/press-this.php?u={url}&t={title}&s={content}&v=2
+```
+
+##### URL Arguments
+
+Argument | Description
+--- | ---
+{url} | The url you want to send in service (**encoded**)
+{title} | The page title of the url
+{content} | A longer description of the content
 
 ### wowbored.com
 

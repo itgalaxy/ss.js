@@ -405,7 +405,7 @@ Argument | Description
 ### Twitter
 
 ```
-http://www.tumblr.com/share/link?url={url}&name={title}&description={description}&via{via}&hastags={hashtags}
+http://www.twitter.com/share/link?url={url}&name={title}&description={description}&via{via}&hastags={hashtags}
 ```
 
 ##### URL Arguments
